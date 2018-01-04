@@ -18,7 +18,7 @@ BankPros (Maybank Hackathon)
 ===============================================================
 (Account Name and Password are CASE SENSITIVE please type in accordingly as how the list shown)
 -----------------
-Account Name:/n
+Account Name:
 -Srinivas
 -maya
 -SRINIVAS
