@@ -36,8 +36,7 @@ Account Name:
 -Naveed
 (All account name shown are straight pulled from Maybank API)
 
-All of the account's password are set to: admin
-This is for easy testing.
+For easy testing, all of the account's password are set to: admin
 ================================================================
 
 -Upon signing in, there will be a list of the account summary shown in the interface.
