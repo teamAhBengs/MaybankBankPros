@@ -17,8 +17,8 @@ BankPros (Maybank Hackathon)
 -In BankPros_Customer.apk, there are few account for easy testing.
 ===============================================================
 (Account Name and Password are CASE SENSITIVE please type in accordingly as how the list shown)
-Account Name:
 -----------------
+Account Name:/n
 -Srinivas
 -maya
 -SRINIVAS
