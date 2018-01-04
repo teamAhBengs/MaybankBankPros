@@ -59,4 +59,4 @@ Note:  BankPros_Business.apk are mostly used by store cashiers.
 
 *For source code, two .aia files are provided. Please use Thunkable to access the source code files
 
-*Links for MIT App Inventor 2: app.thunkable.com/?locale=en#5241960437645312
+*Links for Thunkable: app.thunkable.com/?locale=en#5241960437645312
