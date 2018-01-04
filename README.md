@@ -58,9 +58,13 @@ Note:  BankPros_Business.apk are mostly used by store cashiers.
 
 An email of spending will also be sent to a test email.
 ----------------------
+
 -Platform: Gmail
+
 -Email: bankprostest@gmail.com
+
 -Password: admin123~~
+
 
 -Login to the email given in order to receive an email of spending.
 
